@@ -1,4 +1,4 @@
-package com.zam.servicioEmail.entity;
+package com.zam.servicioEmail.model;
 
 import lombok.Data;
 
